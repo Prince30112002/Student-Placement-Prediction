@@ -1,0 +1,11 @@
+gender,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree_p,degree_t,workex,etest_p,specialisation,mba_p,status,salary
+M,67.0,Others,91.0,Others,Commerce,58.0,Sci&Tech,No,55.0,Mkt&HR,58.8,Placed,270000
+M,79.33,Central,78.33,Central,Science,77.48,Sci&Tech,Yes,86.5,Mkt&Fin,66.28,Placed,200000
+F,65.0,Central,68.0,Central,Arts,64.0,Comm&Mgmt,No,75.0,Mkt&HR,57.8,Placed,250000
+M,56.0,Central,52.0,Central,Science,52.0,Sci&Tech,No,66.0,Mkt&Fin,59.4,Not Placed,
+F,85.8,Central,73.6,Central,Commerce,73.3,Comm&Mgmt,No,96.8,Mkt&Fin,55.5,Placed,425000
+M,55.0,Others,58.0,Others,Arts,54.0,Comm&Mgmt,Yes,70.0,Mkt&HR,52.0,Not Placed,
+F,78.0,Central,74.0,Central,Science,72.0,Sci&Tech,Yes,88.0,Mkt&Fin,68.0,Placed,300000
+M,60.0,Others,63.0,Others,Commerce,61.0,Comm&Mgmt,No,62.0,Mkt&HR,56.0,Not Placed,
+F,82.0,Central,79.0,Central,Commerce,80.0,Comm&Mgmt,Yes,90.0,Mkt&Fin,72.0,Placed,360000
+M,59.0,Others,60.0,Others,Science,58.0,Sci&Tech,No,64.0,Mkt&HR,55.0,Not Placed,
